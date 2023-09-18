@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width-device-width, initial-scale=1.0"y
+        <meta name="keywords" content="html dersleri">
+        <meta name="description" content="html dersindeki incelikler">
+        <title>Html Samet's Task1 </title>
+
+    </head>
+    <body>
+        <form>
+            First name : <input type="text" placeholder="Samet etc."> <br>
+            Surname : <input type="text" placeholder="Cavur etc."> <br> <br>
+            Choose Average Your Age : <br>
+            +15 <input type="radio" name="yas"><br>
+            +20 <input type="radio" name="yas"><br>
+            +25 <input type="radio" name="yas"><br>
+            +30 <input type="radio" name="yas"><br>
+            +35 <input type="radio" name="yas"><br>
+            +40 <input type="radio" name="yas"><br>
+            Choose Your Gender : 
+            <select>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other">Other</option>
+            </select> <br><br>
+
+            Extra Information : <br>
+            <textarea name="ExtraInformation" id="Information" cols="60" rows="15"></textarea>
+            <fieldset>
+                <legend>Confirmation</legend>
+                <input type="checkbox" id="onay" name="onay" required>
+                <label for="onay">I accept the accuracy of the above information</label>
+                
+            </fieldset> <br>
+            <input type="submit" value="Sumbit Form">
+            <input type="reset" value="Reset">
+            
+          </form>
+
+          <body bgcolor="lightgray" style="color:black">
+    </body>
+</html>

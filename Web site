@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale=1.0">
+    <meta name="keywords" content="html dersleri">
+    <meta name="description" content="html dersindeki incelikler">
+    <title>Samet's Order Web site </title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/all.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+
+
+
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="navbar">
+            <div class="logo">
+                <h2>
+                    <a href="#">Tasman Göz</a>
+                </h2>
+            </div>
+            <ul class="nav_links">
+                <li><a href="#anasayfa">Anasayfa</a></li>
+                <li><a href="#tedavilerimiz">Tedavilerimiz</a></li>
+                <li><a href="#yorumlar">Yorumlar</a></li>
+                <li><a href="#iletisim">İletişim</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- Anasayfa -->
+    <section id="anasayfa">
+        </div>
+        <div class="inneranasayfa">
+            <div class="child_anasayfa">
+                <h1>Gözlerin İyi Görmiyor mu? <br> <span class="span_child">Tasman Göz Seninle</span></h1>
+                <p>Fiyat Almak İçin</p>
+                <button class="btn">MESAJ AT</button>
+            </div>
+            <div class="child_anasayfa">
+                <img src="zeki1.png" alt="">
+            </div>
+        </div>
+    </section>
+
+    <!-- Tedavilerimiz -->
+    <section id="tedavilerimiz">
+        <div class="section_title">
+            <h2>TEDAVİLERİMİZ</h2>
+        </div>
+        <div class="innersoftware">
+            <div class="innersoftware_child">
+                <div class="icon">
+                    <i class="fas fa-laptop"></i>
+                    <h3>Akıllı Lens</h3>
+                    <p>Akıllı Lens olarak da adlandırılan trifokal lensler, uzun zamandan beri katarakt ameliyatlarında
+                        uygun hastalar için kullanılmaktadırlar. Akıllı lensler, tek bir odak probleminin değil, çoklu
+                        odak problemlerinin çözümüne yönelik imkan sunan üç odaklı göz içi lenslerdir. Bu sayede gözü
+                        lazer tedavisine uygun olmayan göz kırma kusuruna sahip hastaların tedavilerinde de
+                        kullanılabilmektedirler. Tedavi sonrasında hastalar gözlüksüz olarak hem uzak hem yakın mesafede
+                        odak gerektiren işleri kendi başlarına yapabilmektedirler.</p>
+                </div>
+                </div>
+                
+                <div class="innersoftware_child">
+                    <div class="icon">
+                        <i class="fas fa-laptop"></i>
+                        <h3>Göz Laser Tedavileri</h3>
+                        <p>Göz lazer ameliyatı, miyop, hipermetrop, astigmat ve uygun durumdaki keratokonus problemlerinin
+                            giderilmesine yönelik yapılmaktadır. Bu tedaviler göz çizdirme olarak da anılmaktadır. Bahsi
+                            geçen bu problemler, kişilerin günlük yaşamını zorlaştıran ve bireylerin kendi başlarına yaşama
+                            imkanlarını çok ileri seviyelerde azaltabilen sağlık problemlerindendir. Sağlıklı bir görme için
+                            kontakt lens veya gözlük kullanımını zorunlu kılan bu görme problemleri, kişilerin yaşam
+                            konforunu düşürmektedir. </p>
+    
+                    </div>
+                </div>
+                    <div class="innersoftware_child">
+                        <div class="icon">
+                            <i class="fas fa-laptop"></i>
+                            <h3>Katarakt Tedavisi</h3>
+                            <p>Katarakt, halk arasında “göze perde inmesi” olarak da bilinir. Doğal göz merceğinin matlaşması ve yüzeyinde oluşan çeşitli lekelenmelerle birlikte saydamlığını yitirmesiyle oluşan bir göz hastalığıdır. Katarakt başlangıç aşamasında, yakın görmede bulanıklaşma ve algılanan renklerde solma gibi belirtilerle kendini gösterir. Ancak süreç ilerledikçe hem yakın hem de uzak görüşteki problemler artar. Katarakt, yaşlanmaya bağlı sebeplerle 60 yaş ve üzeri kişilerde daha çok görülür. Bunun nedeni, insan gözünün yaşlanma sürecinden en hızlı etkilenen duyu organı olmasıdır</p>
+        
+                        </div>
+                </div>
+        </div>
+    </section>
+
+    <!-- Yorumlar -->
+
+    <section id="yorumlar">
+        <div class="section_title">
+            <h2>Yorumlar</h2>
+        </div>
+        <div class="inner_courses">
+            <div class="child_courses">
+            
+                <div class="detail">
+                    <p>Samet Çavur</p>
+                    <ul>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                    </ul>
+                    
+                </div>
+                <h3>Senior Developer</h3>
+            </div>
+            <div class="child_courses">
+            
+                <div class="detail">
+                    <p>Enis Buffet</p>
+                    <ul>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                    </ul>
+                    
+                </div>
+                <h3>Investor</h3>
+            </div>
+            <div class="child_courses">
+            
+                <div class="detail">
+                    <p>Abdulhak Tuna</p>
+                    <ul>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                        <li><i class="fas fa-star"></i></li>
+                    </ul>
+                    
+                </div>
+                <h3>J. Front-end Developer</h3>
+            </div>
+        
+    
+        </div>
+    </section>
+
+    <!-- iletisim -->
+    <section id="iletisim">
+        <div class="section_title">
+            <h2>İletişim</h2>
+        </div>
+        <div class="inner_iletisim">
+            <div class="child_iletisim">
+
+            </div>
+            <div class="child_iletisim2">
+                <div class="single_detail sd1">
+                    <h1>Adres</h1>
+                    <p>Çırpıcı Çayırönü</p>
+                </div>
+                <div class="single_detail sd2">
+                    <h1>Telefon</h1>
+                    <p>0551 589 4734</p>
+                </div>
+                <div class="single_detail sd3">
+                    <h1>Başvuru Formu</h1>
+                    <p>port</p>
+                    <a href="http://127.0.0.1:5500/form.html" class="sametform" target="_blank">Forma Gitmek İçin Tıklayınız</a>
+                </div>
+                <div class="single_detail sd4">
+                    <h1>Site Kurucusu</h1>
+                    <p>Abdulhak Tuna</p>
+                    <a href="https://github.com/Atunaa" class="buton" target="_blank">Github Profili İçin Tıklayınız</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+
+
+</html>
